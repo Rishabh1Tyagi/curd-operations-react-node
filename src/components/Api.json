@@ -1,0 +1,99 @@
+{
+    "movies": [{
+        "name": "Srk",
+        "rating": "4.9",
+        "releaseDate": "1/10/1990"
+    }, {
+        "name": "Welcome",
+        "rating": "4.8",
+        "releaseDate": "1/11/2000"
+    }, {
+        "name": "Abc",
+        "rating": "4.7",
+        "releaseDate": "2/12/2001"
+    }, {
+        "name": "Def",
+        "rating": "4.6",
+        "releaseDate": "3/1/2002"
+    },
+    {
+        "name": "Xyz",
+        "rating": "4.4",
+        "releaseDate": "2/1/2003"
+    },
+    {
+        "name": "Pqr",
+        "rating": "4.0",
+        "releaseDate": "3/1/2004"
+    },
+    {
+        "name": "Abc",
+        "rating": "5.0",
+        "releaseDate": "4/1/2005"
+    },
+    {
+        "name": "Welcome New",
+        "rating": "4.9",
+        "releaseDate": "5/1/2006"
+    },
+    {
+        "name": "Gabbar",
+        "rating": "4.8",
+        "releaseDate": "6/1/2006"
+    },
+    {
+        "name": "Avatar",
+        "rating": "4.6",
+        "releaseDate": "7/1/2022"
+    },
+    {
+        "name": "Avatar One",
+        "rating": "4.5",
+        "releaseDate": "8/1/2023"
+    },
+    {
+        "name": "Srk One",
+        "rating": "4.9",
+        "releaseDate": "7/1/2000"
+    },
+    {
+        "name": "Welcome",
+        "rating": "4.0",
+        "releaseDate": "10/10/2010"
+    },
+    {
+        "name": "Dark",
+        "rating": "4.9",
+        "releaseDate": "1/10/2020"
+    },
+    {
+        "name": "Dark One",
+        "rating": "4.8",
+        "releaseDate": "10/11/2021"
+    },
+    {
+        "name": "New",
+        "rating": "4.7",
+        "releaseDate": "11/11/2021"
+    },
+    {
+        "name": "New One",
+        "rating": "4.6",
+        "releaseDate": "01/01/2021"
+    },
+    {
+        "name": "New Two",
+        "rating": "4.9",
+        "releaseDate": "10/10/2020"
+    },
+    {
+        "name": "New Two",
+        "rating": "5.0",
+        "releaseDate": "11/11/2022"
+    },
+    {
+        "name": "Zar",
+        "rating": "4.8",
+        "releaseDate": "12/12/2000"
+    }]
+}
